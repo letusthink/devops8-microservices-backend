@@ -6,8 +6,6 @@
  <img src="https://img.shields.io/github/license/pig-mesh/pig"/>
 </p>
 
-
-
 ## 系统说明
 
 - 基于 Spring Cloud 、Spring Boot、 OAuth2 的 RBAC **企业快速开发平台**， 同时支持微服务架构和单体架构
